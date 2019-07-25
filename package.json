@@ -1,0 +1,15 @@
+{
+  "name": "akosztik.github.io",
+  "author": "Anett Kosztik",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akosztik/akosztik.github.io.git"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-html-pdf": "^0.3.0",
+    "gulp-inline-image-html": "^0.2.1",
+    "gulp-rename": "^1.2.2"
+  }
+}
